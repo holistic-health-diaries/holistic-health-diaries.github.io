@@ -9,7 +9,7 @@ tags:
 Hormones, and their rise and fall, affect everything about our daily experience.
 Wikipedia [defines](https://en.wikipedia.org/wiki/Hormone) hormones as "a class of signaling molecules in multicellular organisms that are sent to distant organs by complex biological processes to regulate physiology and behavior."
 The word stems from the Greek participle ὁρμῶν, "setting in motion".
-In other words: hormones are the things that keep [all those incredibly complex and finely tuned processes throughout your body](2023-05-03-miracle.md) running.
+In other words: hormones are the things that keep [all those incredibly complex and finely tuned processes throughout your body](https://holistic-health-diaries.github.io/2023/05/03/miracle.html) running.
 
 Hormones and hormone cycles affect sleep, mood, fertility, food cravings, general energy levels, and much more.
 Disbalances in hormone cycles are closely related with many kinds of health issues.
