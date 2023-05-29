@@ -6,7 +6,7 @@ published: True
 tags: 
 ---
 
-[Miraculous as that thing is](/_posts/2023-05-03-miracle.md), your body will keep running even if you treat it poorly. 
+[Miraculous as that thing is](2023-05-03-miracle.md), your body will keep running even if you treat it poorly. 
 However, just like a bike or car that is not maintained properly, that will only work for so long. 
 If you keep feeding it crap, couch potato-ing all day, and putting it into high-psychological stress mode all the time, it is only a matter of time until health issues *will* occur.
 
