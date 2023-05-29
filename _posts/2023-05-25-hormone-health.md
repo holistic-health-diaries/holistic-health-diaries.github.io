@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Optimizing hormone health, Pt. 1: It's all connected."
+title: "Optimizing hormone health, Pt. 1: It's all connected"
 date: 2023-05-25
 published: True
 tags: 
@@ -11,8 +11,8 @@ Wikipedia [defines](https://en.wikipedia.org/wiki/Hormone) hormones as "a class 
 The word stems from the Greek participle ὁρμῶν, "setting in motion".
 In other words: hormones are the things that keep [all those incredibly complex and finely tuned processes throughout your body](https://holistic-health-diaries.github.io/2023/05/03/miracle.html) running.
 
-Hormones and hormone cycles affect sleep, mood, fertility, food cravings, general energy levels, and much more.
-Disbalances in hormone cycles are closely related with many kinds of health issues.
+Hormones and hormone cycles affect sleep, mood, fertility, food cravings, general energy levels, and much, much more.
+Disbalances in hormone cycles are closely linked with many kinds of health issues.
 Notable groups of hormones include:
 - Sex hormones ("steroids") - mainly estrogen, progesterone, testosterone
 - Wakefulness/sleep-related hormones - cortisol (the "stress hormone"), melatonin
@@ -32,3 +32,4 @@ Like most things in our body, hormone health is predominantly affected by what I
 
 As long as those key pillars are not in balance, "fixing" hormonal issues will be very hard.
 The following parts of this mini-series will address how to work with those four pillars in order to improve hormone health.
+
