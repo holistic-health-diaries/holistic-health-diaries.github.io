@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Optimizing hormone health, Pt. 1: It's all connected."
-date: 2023-05-30
+date: 2023-05-25
 published: True
 tags: 
 ---
