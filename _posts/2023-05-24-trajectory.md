@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(Only) you can change your health trajectory"
-date: 2023-05-29
+date: 2023-05-24
 published: True
 tags: 
 ---
