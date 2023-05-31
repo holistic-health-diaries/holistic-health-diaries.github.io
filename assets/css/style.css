@@ -556,10 +556,9 @@ hr {
 footer {
     width: 500px;
     float: left;
-    position: sticky;  /* Was fixed before */
+    position: absolute;  /* Was fixed before */
     height: 50px;  /* Was not here before */
-    margin-top: 50px;  /* Was not here before */
-    bottom: 50px;
+    bottom: 0px;
     -webkit-font-smoothing: subpixel-antialiased
 }
 
