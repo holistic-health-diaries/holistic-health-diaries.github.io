@@ -556,7 +556,7 @@ hr {
 footer {
     width: 500px;
     float: left;
-    position: absolute;  /* Was fixed before */
+    position: sticky;  /* Was fixed before */
     height: 50px;  /* Was not here before */
     margin-top: 50px;  /* Was not here before */
     bottom: 50px;
